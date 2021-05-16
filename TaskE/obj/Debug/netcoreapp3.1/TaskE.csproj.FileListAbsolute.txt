@@ -1,0 +1,12 @@
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/bin/Debug/netcoreapp3.1/TaskE.deps.json
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/bin/Debug/netcoreapp3.1/TaskE.runtimeconfig.json
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/bin/Debug/netcoreapp3.1/TaskE.runtimeconfig.dev.json
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/bin/Debug/netcoreapp3.1/TaskE.dll
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/bin/Debug/netcoreapp3.1/TaskE.pdb
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/obj/Debug/netcoreapp3.1/TaskE.csprojAssemblyReference.cache
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/obj/Debug/netcoreapp3.1/TaskE.AssemblyInfoInputs.cache
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/obj/Debug/netcoreapp3.1/TaskE.AssemblyInfo.cs
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/obj/Debug/netcoreapp3.1/TaskE.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/obj/Debug/netcoreapp3.1/TaskE.dll
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/obj/Debug/netcoreapp3.1/TaskE.pdb
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskE/obj/Debug/netcoreapp3.1/TaskE.genruntimeconfig.cache

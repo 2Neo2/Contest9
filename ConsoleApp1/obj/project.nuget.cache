@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ooggwjsoTM4GfqdOn/AVd0N1FU9XzrpDVn4ZmbZzPjrNsffcDzm1fEK53br+Lrr/e32AfT9cemyWGFb5DdXUlA==",
+  "success": true,
+  "projectFilePath": "/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivandoronin/.nuget/packages/newtonsoft.json/13.0.1-beta1/newtonsoft.json.13.0.1-beta1.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/system.net.http/4.3.4/system.net.http.4.3.4.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/system.security.cryptography.algorithms/4.3.0/system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/system.security.cryptography.encoding/4.3.0/system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/system.security.cryptography.primitives/4.3.0/system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/system.security.cryptography.x509certificates/4.3.0/system.security.cryptography.x509certificates.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

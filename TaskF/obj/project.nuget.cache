@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdiWGoemRVI8h1A/ucohcV10xZtE+1afy6COIZWHuhTFP9nriy1tko+k/Af3giPGt7WHrrW/Kwc9UpFOEQqP+w==",
+  "success": true,
+  "projectFilePath": "/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskF/TaskF.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivandoronin/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/ivandoronin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.0/microsoft.aspnetcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

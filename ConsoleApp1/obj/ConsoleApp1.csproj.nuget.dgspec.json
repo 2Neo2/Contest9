@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/ConsoleApp1/ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/ConsoleApp1/ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/ConsoleApp1/ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/ConsoleApp1/ConsoleApp1.csproj",
+        "packagesPath": "/Users/ivandoronin/.nuget/packages/",
+        "outputPath": "/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/ConsoleApp1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivandoronin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1-beta1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/bin/Debug/netcoreapp3.1/TaskI.deps.json
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/bin/Debug/netcoreapp3.1/TaskI.runtimeconfig.json
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/bin/Debug/netcoreapp3.1/TaskI.runtimeconfig.dev.json
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/bin/Debug/netcoreapp3.1/TaskI.dll
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/bin/Debug/netcoreapp3.1/TaskI.pdb
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/obj/Debug/netcoreapp3.1/TaskI.csprojAssemblyReference.cache
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/obj/Debug/netcoreapp3.1/TaskI.AssemblyInfoInputs.cache
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/obj/Debug/netcoreapp3.1/TaskI.AssemblyInfo.cs
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/obj/Debug/netcoreapp3.1/TaskI.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/obj/Debug/netcoreapp3.1/TaskI.dll
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/obj/Debug/netcoreapp3.1/TaskI.pdb
+/Users/ivandoronin/Downloads/Programming2020-master/Contest9/Contest9/TaskI/obj/Debug/netcoreapp3.1/TaskI.genruntimeconfig.cache
